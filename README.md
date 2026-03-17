@@ -1,13 +1,14 @@
-## Mona Farnisa 
-
-Geospatial Data Scientist | Wildfire Resilience | Remote Sensing | Data Synthesis
+<h1 align="center">Mona Farnisa</h1>
+<p align="center">
+  Geospatial Data Scientist | Wildfire Resilience | Remote Sensing
+</p>
 
 I enjoy synthesizing data and creating visualizations, maps, and tools that translate complex datasets into clear insights and stories. I also like to dabble in predictive and deterministic modeling, work with remotely sensed data, and learn about spatial statistics.
 
 I am an interdisciplinary environmental scientist at heart, however, my research background spans natural disaster and climate resilience, risk modeling, vegetation and forest ecology, and crop and soil systems. I am broadly interested in the social/ecological/infrastructure sectors and am always looking to learn more through the datasets I work with.
 
 ## 🔥 Current Work
-- Western Wildfire Resilience Index (WWRI) - 
+- Western Wildfire Resilience Index (WWRI) at [The National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) - 
 Developed predictive geospatial indicators of wildfire resilience across the U.S. and Canada using multi-source spatial data and scalable workflows.
 
 - Wildfire Risk to Cultural Heritage (NRHP x FSim) - 
