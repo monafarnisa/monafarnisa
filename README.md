@@ -1,6 +1,6 @@
 <h1 align="center">Mona Farnisa</h1>
 <p align="center">
-  Geospatial Data Scientist | Wildfire Resilience | Remote Sensing
+  Geospatial Data Scientist
 </p>
 
 I enjoy synthesizing data and creating visualizations, maps, and tools that translate complex datasets into clear insights and stories. I also like to dabble in predictive and deterministic modeling, work with remotely sensed data, and learn about spatial statistics.
