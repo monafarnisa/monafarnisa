@@ -11,8 +11,10 @@ I am an interdisciplinary environmental scientist at heart, however, my research
 - Western Wildfire Resilience Index (WWRI) at [The National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) - 
 Developed predictive geospatial indicators of wildfire resilience across the U.S. and Canada using multi-source spatial data and scalable workflows.
 
-- Wildfire Risk to Cultural Heritage (NRHP x FSim) - 
-Quantified wildfire exposure and vulnerability for ~90,000 historic sites in the U.S. using burn probability models and spatial overlays. (Manuscript under review)
+- [Wildfire Risk to United States Cultural Resources](https://www.nature.com/articles/s41598-026-52407-9)  (NRHP x FSim) - 
+Quantified wildfire exposure and vulnerability for ~90,000 historic sites in the U.S. using USFS FSim burn probability models and spatial overlays.
+
+  Farnisa, M.M., Halpern, B.S. & Fong, C.R. Wildfire risk to United States cultural resources. Sci Rep 16, 21599 (2026). https://doi.org/10.1038/s41598-026-52407-9
 
 ## 🛰️ Skills
 - Remote sensing (Sentinel, MODIS, TROPOMI)
